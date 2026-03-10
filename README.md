@@ -70,7 +70,7 @@ sql/ecommerce_analysis_queries.sql
 A multi-page Power BI dashboard was created to visualize business insights.
 
 ### Executive Overview
-![Executive Overview](images/executive_overview_dashboard.png)
+![Executive Overview](executive_overview_dashboard.png)
 
 This page summarizes the overall business performance including:
 - Total revenue
@@ -83,14 +83,14 @@ This page summarizes the overall business performance including:
 ---
 
 ### Geographic Sales Analysis
-![Geographic Sales Analysis](images/geographic_sales_analysis.png)
+![Geographic Sales Analysis](geographic_sales_analysis.png)
 
 This page shows how revenue is distributed geographically across countries using a global map visualization.
 
 ---
 
 ### Product Performance
-![Product Performance](images/product_performance_dashboard.png)
+![Product Performance](product_performance_dashboard.png)
 
 This page analyzes product-level sales performance including:
 - Top 10 products by revenue
@@ -100,7 +100,7 @@ This page analyzes product-level sales performance including:
 ---
 
 ### Customer Behavior Analysis
-![Customer Behavior Analysis](images/customer_behavior_analysis.png)
+![Customer Behavior Analysis](customer_behavior_analysis.png)
 
 This page focuses on customer purchasing behavior including:
 - Total customers
@@ -111,7 +111,7 @@ This page focuses on customer purchasing behavior including:
 ---
 
 ### Revenue Trends & Seasonality
-![Revenue Trends](images/revenue_trends_seasonality.png)
+![Revenue Trends](revenue_trends_seasonality.png)
 
 This page analyzes time-series revenue trends and monthly sales patterns.
 
@@ -155,3 +155,4 @@ These insights can help businesses improve marketing strategies, product priorit
 Divyansh Sahai  
 
 M.A. Economics — IIFT
+
