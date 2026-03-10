@@ -143,9 +143,7 @@ These insights can help businesses improve marketing strategies, product priorit
 ## Project Files
 
 
-- cleaned_ecommerce_data.csv
 - ecommerce_revenue_analysis.ipynb
-- ecommerce_analysis.db
 - ecommerce_analysis_queries.sql
 - ecommerce_sales_dashboard.pbix
 - dashboard screenshots
@@ -155,4 +153,5 @@ These insights can help businesses improve marketing strategies, product priorit
 ## Author
 
 Divyansh Sahai  
+
 M.A. Economics — IIFT
